@@ -110,4 +110,5 @@ module.exports = {
   }),
   configuration_workflow,
   headers,
+  ready_for_mobile: true,
 };
